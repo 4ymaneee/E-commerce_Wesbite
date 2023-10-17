@@ -527,6 +527,7 @@ footer .follow i {
     color-scheme: #465b53;
     padding-right: 4px;
     cursor: pointer;
+    font-size: 18px;
 }
 
 footer .install .row img {
