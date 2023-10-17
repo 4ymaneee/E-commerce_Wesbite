@@ -31,10 +31,6 @@
 1. Clone this repository.
 2. Open `index.html` in your browser to experience the E-Commerce Website.
 
+
 Feel free to explore, learn from, and contribute to this project. We welcome your ideas, suggestions, and code improvements to make this E-Commerce Website even better!
 
-## 📝 Contributing
-
-If you'd like to contribute, please follow our [Contribution Guidelines](CONTRIBUTING.md). We appreciate your help in enhancing this project.
-
-Thank you for visiting our E-Commerce Website project repository. Happy shopping! 🛒🛍️🎉
