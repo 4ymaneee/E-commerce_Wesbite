@@ -344,7 +344,7 @@ body {
     background: url(images/banner/b17.jpg);
     background-size: cover;
     background-position: center;
-    min-width: 665px;
+    min-width: 49%;
     height: 50vh;
     padding: 30px;
 }
@@ -357,7 +357,7 @@ body {
     background: url(images/banner/b10.jpg);
     background-size: cover;
     background-position: center;
-    min-width: 665px;
+    min-width: 49%;
     height: 50vh;
     padding: 30px;
 }
@@ -484,10 +484,70 @@ body {
     border-radius: 0 4px 4px 0;
 }
 
+/* footer */
+
+footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+footer .col {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
+footer .logo {
+    margin-bottom: 30px;
+}
+
+footer h4 {
+    font-size: 22px;
+    padding-bottom: 10px;
+}
+
+footer p {
+    margin: 0 0 8px 0 ;
+}
 
 
+footer a {
+    text-decoration: none;
+    color: rgba(128, 128, 128, 0.804);
+    margin-bottom: 14px;
+}
+
+footer .follow h4{
+    padding-bottom: 0px;
+}
+
+footer .follow i {
+    color-scheme: #465b53;
+    padding-right: 4px;
+    cursor: pointer;
+}
+
+footer .install .row img {
+    border: 1px solid #088178;
+    border-radius: 4px;
+}
+
+footer .install img {
+    margin: 10px 0 15px 0;
+}
 
 
+footer .copyright {
+    width: 100%;
+    text-align: center;
+}
+
+footer .follow i:hover,
+footer a:hover {
+    color: #088178;
+}
 
 
 
